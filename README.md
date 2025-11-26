@@ -10,7 +10,7 @@
 ---
 
 - 👨‍💻 I am Student in Software Engineer, I'm constantly learning and exploring new technologies to improve my skills.
-- 💬 Ask me about my experience with Mobile Application Development, Machine Learning.
+- 💬 Ask me about my experience in web and mobile app development, and machine learning.
 
 
 ## 🛠 &nbsp;Tech Stack
